@@ -17,7 +17,7 @@ Aplicativo web e smartphone, vinculado a redes sociais (google, facebook, etc) q
   - Enviar aviso para doadores cadastrados da necessidade de doação para um paciente ou tipo de sangue especifico;
   - Informar locais (já georreferenciados com possibilidade de usar waze ou google maps para chegar no local) onde a doação itinerante está;
   - Confirmar doação agendada pelo doador via app/web, necessária confirmação de um funcionario HEMOSC para evitar agendamentos no mesmo horário sem equipamento disponivel;
-  - Autenticar doação realizada para atualziaçaõ da cartão hemosc via tela e futura impressão do memso pelo doador;
+  - Autenticar doação realizada para atualziação do cartão hemosc via tela e futura impressão do mesmo pelo doador;
   - Divulgar eventos HEMOSC via redes sociais e via app/web diretamente com os doadores;
 
 
