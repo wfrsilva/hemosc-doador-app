@@ -1,5 +1,9 @@
 # hemosc-doador-app
-Aplicativo para smartphone de doadores de sangue
+Aplicativo para smartphone de doadores de sangue / plaquetas
+
+Existe dois tipos de doação em SC: Doador de Sangue e Doador de Plaquetas.
+As regras (intervalos entre doações) e tempo de doação (tempo que o doador fica no hemosc)são distintos.
+Idéia inicial é o aplicativo atender ambos so tipos de doação.
 
 Aplicativo web e smartphone, vinculado a redes sociais (google, facebook, etc) que pode:
 
@@ -19,6 +23,10 @@ Aplicativo web e smartphone, vinculado a redes sociais (google, facebook, etc) q
   - Confirmar doação agendada pelo doador via app/web, necessária confirmação de um funcionario HEMOSC para evitar agendamentos no mesmo horário sem equipamento disponivel;
   - Autenticar doação realizada para atualziação do cartão hemosc via tela e futura impressão do mesmo pelo doador;
   - Divulgar eventos HEMOSC via redes sociais e via app/web diretamente com os doadores;
+  - Tipo especifico de sangue em baixa, avisar os doadores:
+    -  Avisar os Doadores desse tipo faltante;
+    -  Ja no aviso e usando as regras de intervalo entre doações e tambem a disponibilidade de equipamentos pada doação já sugerir uma possivel data de doação;
+  - Formularios de entrevista, poderiam ser antecipados via app, contribuindo assim tambem com a diminuição de papel.
 
 
 Nota: Meu sonho de conclusao de curso é criar um sistema de utilidade publica, sendo eu um doador pensei na ideia de um aplicativo para smartphone com possibilidade de agendar sua doação, que lhe ajudasse a cumprir as regras de prazos de doação para os doadores continuos, ou ainda avisasse para os doadores esporadicos a necessidade de uma doação especifica.
