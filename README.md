@@ -4,7 +4,8 @@ Aplicativo para smartphone de doadores de sangue / plaquetas
 Iniciando o projeto inspirado na playlist:
 https://www.youtube.com/watch?v=SOHd4tNWR5s&list=PLRpTFz5_57cvJyGFOD-Jx_cYqc1t2Wjk1&index=4&ab_channel=DeividWillyan%7CFlutter
 
-Conforme video 2 : Curso Fullstack Dart e Flutter: 02 - Organização e Arquitetura
+Conforme video 2 : Curso Fullstack Dart e Flutter: 02 - Organização e Arquitetura,
+
 Criamos uma organização:
 https://github.com/organizations/hemoscapp/
 
