@@ -1,6 +1,23 @@
 # hemosc-doador-app
 Aplicativo para smartphone de doadores de sangue / plaquetas
 
+Iniciando o projeto inspirado na playlist:
+https://www.youtube.com/watch?v=SOHd4tNWR5s&list=PLRpTFz5_57cvJyGFOD-Jx_cYqc1t2Wjk1&index=4&ab_channel=DeividWillyan%7CFlutter
+
+Conforme video 2 : Curso Fullstack Dart e Flutter: 02 - Organização e Arquitetura
+Criamos uma organização:
+https://github.com/organizations/hemoscapp/
+
+Com os repositorios:
+https://github.com/hemoscapp/base-backend
+https://github.com/hemoscapp/base-web
+https://github.com/hemoscapp/base-app
+
+E um trello:
+https://trello.com/b/rPLh0DQb/hemosc-app
+
+===
+
 Existe dois tipos de doação em SC: Doador de Sangue e Doador de Plaquetas.
 As regras (intervalos entre doações) e tempo de doação (tempo que o doador fica no hemosc)são distintos.
 Idéia inicial é o aplicativo atender ambos so tipos de doação.
