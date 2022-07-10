@@ -17,9 +17,9 @@ https://github.com/hemoscapp/base-app
 E um trello:
 https://trello.com/b/rPLh0DQb/hemosc-app
 
-===
+==================================================
 
-Existe dois tipos de doação em SC: Doador de Sangue e Doador de Plaquetas.
+Existem dois tipos de doação em SC: Doador de Sangue e Doador de Plaquetas.
 As regras (intervalos entre doações) e tempo de doação (tempo que o doador fica no hemosc)são distintos.
 Idéia inicial é o aplicativo atender ambos so tipos de doação.
 
