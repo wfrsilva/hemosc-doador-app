@@ -10,12 +10,12 @@ Criamos uma organização:
 https://github.com/organizations/hemoscapp/
 
 Com os repositorios:
-https://github.com/hemoscapp/base-backend
-https://github.com/hemoscapp/base-web
-https://github.com/hemoscapp/base-app
+- https://github.com/hemoscapp/base-backend
+- https://github.com/hemoscapp/base-web
+- https://github.com/hemoscapp/base-app
 
 E um trello:
-https://trello.com/b/rPLh0DQb/hemosc-app
+- https://trello.com/b/rPLh0DQb/hemosc-app
 
 ==================================================
 
