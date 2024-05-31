@@ -19,6 +19,8 @@ Trello:
 
 Diagramas:
 - https://app.diagrams.net/#Hhemoscapp%2Fbase-app%2Fmain%2FSistema%20Hemosc.drawio#%7B%22pageId%22%3A%22QvE5s0dXJsq5SlCrJO8p%22%7D
+  - inspiracao do diagrma![image](https://github.com/wfrsilva/hemosc-doador-app/assets/8933834/1a008355-40a0-4f60-921f-6c8bc483d92b)
+
 ==================================================
 
 Existem dois tipos de doação em SC: Doador de Sangue e Doador de Plaquetas.
