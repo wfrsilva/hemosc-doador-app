@@ -52,3 +52,8 @@ Aplicativo web e smartphone, vinculado a redes sociais (google, facebook, etc) q
 
 
 Nota: Meu sonho de conclusao de curso é criar um sistema de utilidade publica, sendo eu um doador pensei na ideia de um aplicativo para smartphone com possibilidade de agendar sua doação, que lhe ajudasse a cumprir as regras de prazos de doação para os doadores continuos, ou ainda avisasse para os doadores esporadicos a necessidade de uma doação especifica.
+
+
+## informacoes externas:
+- [Micro-FrontEnds](https://github.com/DeividWillyan/Micro-FrontEnds/)
+- [Diagrama micro_core](https://github.com/DeividWillyan/Micro-FrontEnds/blob/master/architecture.png)
