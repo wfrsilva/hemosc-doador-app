@@ -53,7 +53,11 @@ Aplicativo web e smartphone, vinculado a redes sociais (google, facebook, etc) q
 
 Nota: Meu sonho de conclusao de curso é criar um sistema de utilidade publica, sendo eu um doador pensei na ideia de um aplicativo para smartphone com possibilidade de agendar sua doação, que lhe ajudasse a cumprir as regras de prazos de doação para os doadores continuos, ou ainda avisasse para os doadores esporadicos a necessidade de uma doação especifica.
 
+## Etapas do Video cumpridas:
+- 2025-07-29 - [Curso Fullstack Dart e Flutter: 02 - Organização e Arquitetura 24:00 / 26:22](https://youtu.be/SOHd4tNWR5s?list=PLRpTFz5_57cvJyGFOD-Jx_cYqc1t2Wjk1&t=1440)
 
-## informacoes externas:
+
+## informações externas:
+- [curso-fullstack-dart-flutter](https://github.com/curso-fullstack-dart-flutter)
 - [Micro-FrontEnds](https://github.com/DeividWillyan/Micro-FrontEnds/)
 - [Diagrama micro_core](https://github.com/DeividWillyan/Micro-FrontEnds/blob/master/architecture.png)
