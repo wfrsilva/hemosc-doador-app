@@ -1,13 +1,13 @@
 # Flutter WEB
 
-- Login Administrativo Hemosc
+- Login Administrativo/Operador Hemosc
 - Home do Operador (Quem atende o doador)
-  - > Dashboard
+  - -> Dashboard
 - Home do Administrador (quem cadastra e agenda as doacoes)
-  - > Dashboard com resumo do Hemocentro
+  - -> Dashboard com resumo do Hemocentro
 - Menu
-  - > Usuarios (Admin)
-    > Hemocentros (Admin)
-    > Doações (Admin/Operador)
-    > Perfil  (Admin/Operador)
-    > Envio de Push (Admin)
+  - -> Usuarios (Admin)
+  - -> Hemocentros (Admin)
+  - -> Doações (Admin/Operador)
+  - -> Perfil  (Admin/Operador)
+  - -> Envio de Push (Admin)
