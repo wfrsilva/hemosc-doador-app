@@ -2,7 +2,7 @@
 
 
 - Login Doador
-- Cadastro doador
+- Cadastro Doador
 - Home (Lista de Hemocentros)
 - Lista de Tipos sanguineos (Estoque de tipos)
 - Lista de Tipos de Doação
